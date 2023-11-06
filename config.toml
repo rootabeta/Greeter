@@ -1,7 +1,7 @@
 [config]
-main_nation = "Volstrostia"
-region = "Alex"
-nation = "Alex Asteorra"
+main_nation = "CHANGE ME"
+region = "CHANGE ME"
+nation = "CHANGE ME"
 password = "Nice Try, Punk :3"
 min_nations = 1
 nations_file = "nationslist.txt"
