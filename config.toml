@@ -1,0 +1,13 @@
+[config]
+main_nation = "Volstrostia"
+region = "Alex"
+nation = "Alex Asteorra"
+password = "Nice Try, Punk :3"
+min_nations = 1
+nations_file = "nationslist.txt"
+message = """[b]Hello, tester![/b]
+This is a test!
+
+%ARRIVALS%
+
+Boop!"""
